@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Luke 👋
 
-<!--
-**frostbite4575/frostbite4575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and metal fabrication professional with a passion for automation, AI, and building things — whether that's on the shop floor or in code.
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** Angular, JavaScript, HTML/CSS, Three.js  
+**Backend:** Node.js, Express.js, MongoDB  
+**Other:** TypeScript, REST APIs, AI/LLM integrations, MCP servers  
+
+## 🤖 What I'm Into
+
+- Building AI-powered tools and agents
+- Industrial automation and smart manufacturing
+- 3D graphics and interactive web experiences
+- Full-stack web applications
+
+## 🚀 What I'm Working On
+
+- **Fantasy Markets** — a full-stack financial simulation app
+- **Email Agent** — an AI-powered email automation tool built with TypeScript
+- **AI CAD Program** — an AI-powered CAD program
+
+## 🏭 Background
+
+I bring something a little different to the table — years of hands-on experience in metal fabrication and manufacturing, combined with self-taught software development skills. I understand how real-world industrial systems work, which shapes how I think about building software.
+
+## 📫 Let's Connect
+
+[LinkedIn] www.linkedin.com/in/lukekshelby
