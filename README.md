@@ -21,6 +21,13 @@ I'm a full-stack developer and metal fabrication professional with a passion for
 - **Email Agent** — an AI-powered email automation tool built with TypeScript
 - **AI CAD Program** — an AI-powered CAD program
 
+
+## 🎓 Education & Training
+
+- **CodeFi Full-Stack Development Program** — MEAN stack, Ruby
+- **FBLA Cybersecurity** — 3rd place competitor
+- **High School Robotics** — Lead programmer for my team
+  
 ## 🏭 Background
 
 I bring something a little different to the table — years of hands-on experience in metal fabrication and manufacturing, combined with self-taught software development skills. I understand how real-world industrial systems work, which shapes how I think about building software.
